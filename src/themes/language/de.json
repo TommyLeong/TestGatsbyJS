@@ -1,0 +1,26 @@
+{
+  "OrderingSystem": "Bestellsystem",
+  "TableReservation": "Tischreservierung",
+  "FacebookOrdering": "Facebook Bestellung",
+  "Pricing": "Preisgestaltung",
+  "Contact": "Kontakt",
+
+  "title": "Missing Deutsch",
+  "subtitle": "Nutzen Sie unsere Bestellsoftware für Restaurants und Imbisse, um Ihre Verkäufe zu steigern!",
+  "headline": "Keine Zeit zu verlieren: Nehmen Sie Ihre erste Online-Bestellung innerhalb von Minuten entgegen",
+  "subHeadline": "Wie Sie loslegen können: Erstellen Sie einfach ein Konto Fügen Sie die Restaurant-Widgets zu Ihrer Website hinzu Nutzen Sie unsere Online Restaurant-Bestellsoftware, um die auf Ihrer Website, Facebook-Seite oder Restaurant-App eingegangenen Bestellungen zu bestätigen So einfach ist es, Ihre eigene Online-Website für Essensbestellungen bis heute Abend zu erhalten.",
+
+  "OnlineOrderingBrief_Title": "Ziehen Sie mehr Kunden an mit Tischreservierungen & Vorbestellungen",
+  "TableReservationBrief_Title": "Online Mitnehm-Bestellsystem für Ihr Restaurant",
+  "FacebookOrderingBrief_Title": "Erweitern Sie Ihr Onlinegeschäft mit einer Liefersoftware für Restaurants",
+
+  "OnlineOrderingBrief_Info": "Mit unseren Features “Tischreservierung” + ”Vorbestellung” können Ihre hungrigen Kunden ganz einfach einen Tisch reservieren und ihr Lieblingsessen vorbestellen.",
+  "TableReservationBrief_Info": "Kunden fragen nach Abholsystemen auf dem Lande und anderen Abholoptionen?",
+  "FacebookOrderingBrief_Info": "3 einfachen Schritten",
+
+  "OnlineOrderingBrief_Details": "Erfahren Sie mehr >>",
+  "TableReservationBrief_Details": "Lernen Sie mehr über unsere Optionen für Essen zum Mitnehmen >>",
+  "FacebookOrderingBrief_Details": "Lernen Sie mehr über Lieferungen >>",
+
+  "test": "test - DEUTSCH!"
+}
